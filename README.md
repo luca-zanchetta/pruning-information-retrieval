@@ -1,7 +1,7 @@
 # A Pruning-Based Deep Learning Approach for Information Retrieval
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xgEKauqx6sjTNUg5zu-YFrHpH-HFHN8T)
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://github.com/luca-zanchetta/pruning-information-retrieval/blob/main/Report.pdf)
 
 This repo introduces a refined approach to information retrieval by enhancing an existing inverted
 index framework through pruning and fine-tuning techniques within the realm of deep learning.
